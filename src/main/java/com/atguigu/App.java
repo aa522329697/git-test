@@ -7,5 +7,6 @@ package com.atguigu;
 public class App {
     public static void main( String[] args ) {
         System.out.println("aaaaaaaaaa");
+        System.out.println("bbbbbbbbbb");
     }
 }
