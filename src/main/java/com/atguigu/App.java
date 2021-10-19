@@ -12,5 +12,7 @@ public class App {
         System.out.println("pull-test");
         System.out.println("master update");
         System.out.println("hot-fix update");
+        System.out.println("----------master---------");
+
     }
 }
