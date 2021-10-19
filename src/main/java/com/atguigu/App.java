@@ -10,5 +10,6 @@ public class App {
         System.out.println("bbbbbbbbbb");
         System.out.println("cccccccccc");
         System.out.println("pull-test");
+        System.out.println("master update");
     }
 }
